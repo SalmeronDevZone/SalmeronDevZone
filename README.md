@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús Salmerón</h1>
-<h3 align="center">Junior .net developer from Spain</h3>
+<h3 align="center">Junior developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmerondevzone&label=Profile%20views&color=0e75b6&style=flat" alt="salmerondevzone" /> </p>
 
