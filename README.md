@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmerondevzone&label=Profile%20views&color=0e75b6&style=flat" alt="salmerondevzone" /> </p>
 
-🔭 I’m currently seeking my first developer job, aiming to refine my technical skills and advance professionally in the tech industry.
+🔭 I’m currently seeking my first Sql Developer job after years of analyst. Working with T-SQL, PL/SQL, SSIS and Pentaho.
 
 - 🌱 I'm currently learning QA and advanced C#, while also delving into automation in my projects.
 
-- 👨‍💻 All of my projects are available [on my GitHub](on my GitHub)
+- 👨‍💻 All of my projects are available in my profile.
 
 - 💬 Ask me about **sql , .net, python...**
 
