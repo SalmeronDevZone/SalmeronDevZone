@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmerondevzone&label=Profile%20views&color=0e75b6&style=flat" alt="salmerondevzone" /> </p>
 
-🔭 I’m currently seeking my first Sql Developer job after years of analyst. Working with T-SQL, PL/SQL, SSIS and Pentaho.
+🔭 I’m currently working at Sunsupport, a company that manufactures photovoltaic structures, I study the market and look for the best solution that the data offers me for our customers..
 
-- 🌱 I'm currently learning QA and advanced C#, while also delving into automation in my projects.
+- 🌱 I'm currently preparing PowerBI pl-300 certification.
 
 - 👨‍💻 All of my projects are available in my profile.
 
-- 💬 Ask me about **sql , .net, python...**
+- 💬 Ask me about **sql , .net, python and POWER BI!!**
 
 - 📫 How to reach me **jsalmedev@gmail.com**
 
