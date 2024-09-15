@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jsalmedev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/salmerondev/](https://www.linkedin.com/in/salmerondev/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/salmerondev/](https://www.linkedin.com/in/salmerondev/](https://www.linkedin.com/in/jesussalmerongr/))
 
 - ⚡ Fun fact -> **In 1994, the first online purchase of an item was a pepperoni pizza, made at a Pizza Hut store.**
 
