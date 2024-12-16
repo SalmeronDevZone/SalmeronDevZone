@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmerondevzone&label=Profile%20views&color=0e75b6&style=flat" alt="salmerondevzone" /> </p>
 
-🔭 I’m currently working at Sunsupport, a company that manufactures photovoltaic structures, I study the market and look for the best solution that the data offers me for our customers..
+🔭 I’m currently working at Avanade as ETL developer (SSIS).
 
 - 🌱 I'm currently preparing PowerBI pl-300 certification.
 
