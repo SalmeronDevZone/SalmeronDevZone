@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmerondevzone&label=Profile%20views&color=0e75b6&style=flat" alt="salmerondevzone" /> </p>
 
-🔭 I’m currently working at Avanade as ETL developer (SSIS).
+🔭 I’m currently working at SolinData as Data Analyst.
 
-- 🌱 I'm currently preparing PowerBI pl-300 certification.
+- 🌱 I'm currently developing business intelligence and advanced data analytics projects..
 
 - 👨‍💻 All of my projects are available in my profile.
 
