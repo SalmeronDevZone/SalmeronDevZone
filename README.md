@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 🔭 Currently working as **Data Analyst at SolinData**  
 🌱 Developing projects in **Business Intelligence**, **Advanced Data Analytics**, and **ETL automation**  
-💬 Ask me about **SQL, Python, .NET, and Power BI!**  
+💬 Ask me about **SQL, Python, JAVA, and Power BI!**  
 📫 Reach me at **jsalmedev@gmail.com**  
 ⚡ Fun fact → *In 1994, the first online purchase was a pepperoni pizza from Pizza Hut!* 🍕
 
