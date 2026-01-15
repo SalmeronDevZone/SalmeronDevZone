@@ -56,27 +56,7 @@
 ---
 
 ### 🌎 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/jesussalmerongr/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://kaggle.com/jesssalmern" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
-</a>
-<a href="https://leetcode.com/mrsaylar" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmerondevzone&show_icons=true&theme=react" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmerondevzone&layout=compact&theme=react" alt="Top Languages" height="160"/>
-</p>
+<p align="left"> <a href="https://linkedin.com/in/jesussalmerongr/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a> <a href="https://kaggle.com/jesssalmern" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a> <a href="https://leetcode.com/mrsaylar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a> </p> --- ### 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=salmerondevzone&show_icons=true&theme=react" alt="GitHub Stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmerondevzone&layout=compact&theme=react" alt="Top Languages" height="160"/> </p> --- 💡 *“Data is the new oil, but only analytics refines it.”*
 
 ---
 
