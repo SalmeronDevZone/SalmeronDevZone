@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jesús Salmerón · Azure DevOps &amp; Cloud Engineer</title>
+  <desc id="desc">Terraform, Kubernetes, CI/CD and observability on Azure, coming from data engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#0d1b34"/>
+      <stop offset="1" stop-color="#0a2a4a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.15" r="0.65">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="card">
+      <rect width="1280" height="300" rx="18"/>
+    </clipPath>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1280" height="300" fill="url(#bg)"/>
+    <rect width="1280" height="300" fill="url(#grid)"/>
+    <rect width="1280" height="300" fill="url(#glow)"/>
+    <rect y="296" width="1280" height="4" fill="#2f81f7" fill-opacity="0.6"/>
+  </g>
+
+  <!-- Presentación -->
+  <text x="64" y="78" class="mono" font-size="16" fill="#58a6ff">~/salmerondevzone $ whoami</text>
+  <text x="64" y="140" class="sans" font-size="54" font-weight="700" fill="#f0f6fc">Jesús Salmerón</text>
+  <text x="64" y="184" class="sans" font-size="26" font-weight="600" fill="#7ee787">Azure DevOps &amp; Cloud Engineer</text>
+  <text x="64" y="222" class="sans" font-size="17" fill="#8b949e">Terraform · Kubernetes · CI/CD · Observability</text>
+  <text x="64" y="252" class="sans" font-size="16" font-style="italic" fill="#c9d1d9">From data pipelines to delivery pipelines.</text>
+
+  <!-- Terminal -->
+  <g transform="translate(800 40)">
+    <rect width="420" height="222" rx="12" fill="#010409" fill-opacity="0.88" stroke="#30363d"/>
+    <circle cx="22" cy="20" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="20" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="20" r="6" fill="#28c840"/>
+    <text x="210" y="25" text-anchor="middle" class="mono" font-size="12" fill="#6e7681">ops@nublar-ctrl-01 — zsh</text>
+    <g class="mono" font-size="14">
+      <text x="20" y="62"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> terraform apply -auto-approve</tspan></text>
+      <text x="20" y="83" fill="#8b949e">Apply complete! Resources: 12 added.</text>
+      <text x="20" y="111"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> kubectl rollout status deploy/api</tspan></text>
+      <text x="20" y="132" fill="#8b949e">deployment "api" successfully rolled out</text>
+      <text x="20" y="160"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> az pipelines run --name release</tspan></text>
+      <text x="20" y="181"><tspan fill="#3fb950">✔ Succeeded</tspan><tspan fill="#8b949e"> · prod · 3m 12s</tspan></text>
+      <text x="20" y="207" fill="#7ee787">$</text>
+      <rect class="cursor" x="34" y="194" width="9" height="17" fill="#e6edf3"/>
+    </g>
+  </g>
+</svg>
