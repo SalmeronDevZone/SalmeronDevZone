@@ -32,10 +32,10 @@ Every claim links to code you can run.
 | --- | --- |
 | **Medallion pipelines**: bronze → silver → gold, idempotent and incremental, with late-arriving corrections | [Insight_Horizon · pipeline](https://github.com/SalmeronDevZone/Insight_Horizon/tree/main/pipeline) |
 | **Data quality**: validation rules, quarantine with every reason, quality reports | [Insight_Horizon](https://github.com/SalmeronDevZone/Insight_Horizon/tree/main/pipeline) · [Go data-quality CLI](https://github.com/SalmeronDevZone/PythonProjects/tree/main/Go/Proyecto%20Final) |
-| **Advanced SQL**: window functions, gaps & islands, sessionization, upserts, SCD type 2, recursive CTEs | [snake-data-lair · 13 auto-graded exercises](https://github.com/SalmeronDevZone/snake-data-lair/tree/main/ejercicios) |
+| **Advanced SQL**: window functions, gaps & islands, sessionization, cohorts, upserts, SCD type 2, CDC, JSON, recursive CTEs | [snake-data-lair · 26 auto-graded exercises](https://github.com/SalmeronDevZone/snake-data-lair/tree/main/ejercicios) |
 | **SQL across engines**: T-SQL, PL/SQL, MySQL, SQLite and a star schema for a Fabric warehouse | [snake-data-lair · SQL](https://github.com/SalmeronDevZone/snake-data-lair/tree/main/SQL) |
 | **Spark on a Lakehouse**: explicit schemas, partitioned Parquet, Delta tables, Spark SQL | [PythonProjects · FABRIC](https://github.com/SalmeronDevZone/PythonProjects/tree/main/FABRIC) |
-| **Python for data**: pandas, generators, CDC, retries with backoff, API pagination, idempotent ingestion | [PythonProjects · exercises](https://github.com/SalmeronDevZone/PythonProjects/tree/main/ejercicios) |
+| **Python for data**: pandas, generators, CDC, retries with backoff, API pagination, idempotent ingestion, transactional loads into SQL | [PythonProjects · exercises](https://github.com/SalmeronDevZone/PythonProjects/tree/main/ejercicios) · [Python + SQL](https://github.com/SalmeronDevZone/snake-data-lair/tree/main/ejercicios/python_sql) |
 | **Engineering habits**: tests and CI in every repository, Git workflows | [Git labs](https://github.com/SalmeronDevZone/GitHub/tree/main/ejercicios) · the green badges in each README |
 
 ## 🚀 Featured work
@@ -55,7 +55,7 @@ Every claim links to code you can run.
     <td width="50%" valign="top">
       <a href="https://github.com/SalmeronDevZone/snake-data-lair"><img src="assets/sql-lab.svg" alt="SQL exercises with an automatic grader"/></a>
       <h3><a href="https://github.com/SalmeronDevZone/snake-data-lair">🐍 snake-data-lair</a></h3>
-      <p><b>SQL for data engineers.</b> Five engines, PL/SQL, a Fabric star schema and 22 auto-graded exercises (13 SQL + 9 pandas): deduplicating loads, gaps &amp; islands, sessionization, data-quality checks, SCD type 2.</p>
+      <p><b>SQL for data engineers.</b> Five engines, PL/SQL, a Fabric star schema and 45 auto-graded exercises (26 SQL, 9 pandas, 10 Python + SQL): deduplicating loads, gaps &amp; islands, cohorts, CDC, JSON, SCD type 2, transactional loads.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
         <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square" alt="Oracle PL/SQL"/>
@@ -109,7 +109,7 @@ Every claim links to code you can run.
 | Repository | What's inside |
 | --- | --- |
 | [Insight_Horizon](https://github.com/SalmeronDevZone/Insight_Horizon) | Medallion ETL pipeline with tests and CI, 8 challenges, analysis notebooks |
-| [snake-data-lair](https://github.com/SalmeronDevZone/snake-data-lair) | SQL across five engines, PL/SQL, 22 auto-graded SQL and pandas exercises |
+| [snake-data-lair](https://github.com/SalmeronDevZone/snake-data-lair) | SQL across five engines, PL/SQL, 45 auto-graded SQL, pandas and Python + SQL exercises |
 | [PythonProjects](https://github.com/SalmeronDevZone/PythonProjects) | 10 Python data-engineering exercises, PySpark on Fabric, a Go data-quality CLI and a Go-for-data course |
 | [azure-lab](https://github.com/SalmeronDevZone/azure-lab) | Local Azure simulator to learn DevOps: portal, Cloud Shell, Azure DevOps and 47 labs |
 | [GitHub](https://github.com/SalmeronDevZone/GitHub) | 10 auto-graded Git labs, a Git cheat sheet and a guide for HR |

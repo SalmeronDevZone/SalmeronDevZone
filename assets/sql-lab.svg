@@ -13,7 +13,7 @@
   </defs>
   <rect width="800" height="500" rx="16" fill="url(#bg)"/>
   <text x="40" y="52" class="sans" font-size="22" font-weight="700" fill="#f0f6fc">Data-engineering SQL lab</text>
-  <text x="40" y="78" class="sans" font-size="13" fill="#8b949e">13 SQL + 9 pandas exercises · auto-graded · SQLite</text>
+  <text x="40" y="78" class="sans" font-size="13" fill="#8b949e">45 exercises: 26 SQL · 9 pandas · 10 Python + SQL · auto-graded</text>
 
   <rect x="40" y="104" width="720" height="356" rx="12" fill="#010409" stroke="#30363d"/>
   <circle cx="62" cy="124" r="6" fill="#ff5f57"/>
