@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-labelledby="t d">
+  <title id="t">snake-data-lair: SQL exercises with an automatic grader</title>
+  <desc id="d">Terminal output of the grader: passed, failed and pending SQL exercises.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0d2238"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 15px; }
+    </style>
+  </defs>
+  <rect width="800" height="500" rx="16" fill="url(#bg)"/>
+  <text x="40" y="52" class="sans" font-size="22" font-weight="700" fill="#f0f6fc">Data-engineering SQL lab</text>
+  <text x="40" y="78" class="sans" font-size="13" fill="#8b949e">13 SQL + 9 pandas exercises · auto-graded · SQLite</text>
+
+  <rect x="40" y="104" width="720" height="356" rx="12" fill="#010409" stroke="#30363d"/>
+  <circle cx="62" cy="124" r="6" fill="#ff5f57"/>
+  <circle cx="82" cy="124" r="6" fill="#febc2e"/>
+  <circle cx="102" cy="124" r="6" fill="#28c840"/>
+
+  <g class="mono">
+    <text x="62" y="164"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> python comprobar.py</tspan></text>
+
+    <circle cx="70" cy="190" r="6" fill="#3fb950"/>
+    <text x="86" y="195" fill="#e6edf3">03_top_producto_por_categoria</text>
+    <text x="440" y="195" fill="#6e7681"># RANK() OVER</text>
+
+    <circle cx="70" cy="218" r="6" fill="#3fb950"/>
+    <text x="86" y="223" fill="#e6edf3">06_deduplicar_cargas</text>
+    <text x="440" y="223" fill="#6e7681"># ROW_NUMBER()</text>
+
+    <circle cx="70" cy="246" r="6" fill="#3fb950"/>
+    <text x="86" y="251" fill="#e6edf3">07_huecos_e_islas</text>
+    <text x="440" y="251" fill="#6e7681"># huecos e islas</text>
+
+    <circle cx="70" cy="274" r="6" fill="#3fb950"/>
+    <text x="86" y="279" fill="#e6edf3">08_sesiones_web</text>
+    <text x="440" y="279" fill="#6e7681"># sesiones</text>
+
+    <circle cx="70" cy="302" r="6" fill="#3fb950"/>
+    <text x="86" y="307" fill="#e6edf3">10_calidad_de_datos</text>
+    <text x="440" y="307" fill="#6e7681"># calidad de datos</text>
+
+    <circle cx="70" cy="330" r="6" fill="#f85149"/>
+    <text x="86" y="335" fill="#e6edf3">11_upsert_incremental</text>
+    <text x="440" y="335" fill="#ff7b72">el resultado no coincide</text>
+    <text x="86" y="356" fill="#8b949e" font-size="13">esperado 11 filas · obtenido 10</text>
+
+    <circle cx="70" cy="384" r="6" fill="#d29922"/>
+    <text x="86" y="389" fill="#e6edf3">12_scd_tipo_2</text>
+    <text x="440" y="389" fill="#e3b341">pendiente</text>
+
+    <text x="62" y="430" fill="#c9d1d9">5/7 correctos · 1 pendiente</text>
+  </g>
+</svg>

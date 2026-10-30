@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
-  <title id="title">Jesús Salmerón · Azure DevOps &amp; Cloud Engineer</title>
-  <desc id="desc">Terraform, Kubernetes, CI/CD and observability on Azure, coming from data engineering.</desc>
+  <title id="title">Jesús Salmerón · Data Engineer moving into DevOps &amp; Cloud</title>
+  <desc id="desc">Spark, SQL, Microsoft Fabric, Python and Azure: reliable data from raw files to the warehouse.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220"/>
@@ -35,9 +35,9 @@
   <!-- Presentación -->
   <text x="64" y="78" class="mono" font-size="16" fill="#58a6ff">~/salmerondevzone $ whoami</text>
   <text x="64" y="140" class="sans" font-size="54" font-weight="700" fill="#f0f6fc">Jesús Salmerón</text>
-  <text x="64" y="184" class="sans" font-size="26" font-weight="600" fill="#7ee787">Azure DevOps &amp; Cloud Engineer</text>
-  <text x="64" y="222" class="sans" font-size="17" fill="#8b949e">Terraform · Kubernetes · CI/CD · Observability</text>
-  <text x="64" y="252" class="sans" font-size="16" font-style="italic" fill="#c9d1d9">From data pipelines to delivery pipelines.</text>
+  <text x="64" y="186" class="sans" font-size="28" font-weight="600"><tspan fill="#7ee787">Data Engineer</tspan><tspan fill="#8b949e" font-weight="400"> → </tspan><tspan fill="#79c0ff" font-size="24">DevOps &amp; Cloud</tspan></text>
+  <text x="64" y="222" class="sans" font-size="17" fill="#8b949e">Spark · SQL · Microsoft Fabric · Python · Azure</text>
+  <text x="64" y="252" class="sans" font-size="16" font-style="italic" fill="#c9d1d9">Reliable data, from raw files to the warehouse.</text>
 
   <!-- Terminal -->
   <g transform="translate(800 40)">
@@ -45,14 +45,14 @@
     <circle cx="22" cy="20" r="6" fill="#ff5f57"/>
     <circle cx="42" cy="20" r="6" fill="#febc2e"/>
     <circle cx="62" cy="20" r="6" fill="#28c840"/>
-    <text x="210" y="25" text-anchor="middle" class="mono" font-size="12" fill="#6e7681">ops@nublar-ctrl-01 — zsh</text>
+    <text x="210" y="25" text-anchor="middle" class="mono" font-size="12" fill="#6e7681">data@lakehouse — zsh</text>
     <g class="mono" font-size="14">
-      <text x="20" y="62"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> terraform apply -auto-approve</tspan></text>
-      <text x="20" y="83" fill="#8b949e">Apply complete! Resources: 12 added.</text>
-      <text x="20" y="111"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> kubectl rollout status deploy/api</tspan></text>
-      <text x="20" y="132" fill="#8b949e">deployment "api" successfully rolled out</text>
-      <text x="20" y="160"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> az pipelines run --name release</tspan></text>
-      <text x="20" y="181"><tspan fill="#3fb950">✔ Succeeded</tspan><tspan fill="#8b949e"> · prod · 3m 12s</tspan></text>
+      <text x="20" y="62"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> python -m etl.pipeline</tspan></text>
+      <text x="20" y="83"><tspan fill="#3fb950">✔</tspan><tspan fill="#8b949e"> 28 rows to gold · 7 quarantined</tspan></text>
+      <text x="20" y="111"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> spark-submit etl_orders.py</tspan></text>
+      <text x="20" y="132"><tspan fill="#3fb950">✔</tspan><tspan fill="#8b949e"> 36 partitions written (Year/Month)</tspan></text>
+      <text x="20" y="160"><tspan fill="#7ee787">$</tspan><tspan fill="#e6edf3"> terraform plan</tspan></text>
+      <text x="20" y="181" fill="#8b949e">Plan: 12 to add, 0 to change.</text>
       <text x="20" y="207" fill="#7ee787">$</text>
       <rect class="cursor" x="34" y="194" width="9" height="17" fill="#e6edf3"/>
     </g>
