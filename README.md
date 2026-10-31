@@ -87,6 +87,27 @@ Every claim links to code you can run.
   </tr>
 </table>
 
+## 🎮 Just for fun
+
+<a href="https://salmerondevzone.github.io/customer-service-from-hell/"><img src="assets/customer-service.png" alt="Customer Service From Hell: a pixel-art 2000s office with a CRT monitor running HelpDesk 2000" width="100%"/></a>
+
+<h3><a href="https://salmerondevzone.github.io/customer-service-from-hell/">📞 Customer Service From Hell</a></h3>
+
+<p><b>A darkly comic customer-service simulator</b> (in Spanish, 18+). You work in the basement of HappyTech, a company whose smart fridge locks you out because of your cholesterol. Read the complaints, dig through attachments and the customer database, apply absurd company policies that change mid-shift, answer calls before the customer's patience runs out, and try to still get paid at 17:00.</p>
+
+<p>Under the hood: a React + TypeScript + Zustand game engine with all the content kept apart from the code, pixel art drawn entirely in code (no image files), sound synthesised with WebAudio (the corporate muzak detunes as your stress rises), Vitest and Playwright tests, and a GitHub Actions pipeline that tests, builds and deploys to GitHub Pages on every push. It ships as a single self-contained HTML file.</p>
+
+<p>
+  <a href="https://salmerondevzone.github.io/customer-service-from-hell/"><img src="https://img.shields.io/badge/%E2%96%B6%20Play-in%20your%20browser-0F7466?style=for-the-badge" alt="Play in your browser"/></a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
+</p>
+
 ## 🧰 Tech stack
 
 <p align="center">
@@ -114,6 +135,7 @@ Every claim links to code you can run.
 | [azure-lab](https://github.com/SalmeronDevZone/azure-lab) | Local Azure simulator to learn DevOps: portal, Cloud Shell, Azure DevOps and 47 labs |
 | [GitHub](https://github.com/SalmeronDevZone/GitHub) | 10 auto-graded Git labs, a Git cheat sheet and a guide for HR |
 | [bits-and-bytes](https://github.com/SalmeronDevZone/bits-and-bytes) | Layered C# apps with stored procedures, Java and Kotlin, 8 Java-for-data exercises |
+| [Customer Service From Hell](https://salmerondevzone.github.io/customer-service-from-hell/) | Browser game: a customer-service simulator with pixel art, synthesised sound, tests and CI/CD to GitHub Pages (play online; source private) |
 
 ## 🤝 Let's connect
 
